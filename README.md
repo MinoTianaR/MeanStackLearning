@@ -17,3 +17,5 @@
 #Step 9 - Changing ports
   
 #Step 10 - Running app
+
+#Step 11 - Generating app components on garage_ui/garage_ui
